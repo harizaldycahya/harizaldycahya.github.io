@@ -42,7 +42,7 @@ function Contact() {
                 </p>
                 <hr />
                 <hr />
-                <a style={{textDecoration:'none'}} href="/#contact">
+                <a style={{textDecoration:'none'}} href="https://mail.google.com/mail/?view=cm&fs=1&to=zaldypratama83@gmail.com">
                     <div className='button'><i class="fa-solid fa-envelope"></i> &nbsp; Email</div>
                 </a>
                 <a style={{textDecoration:'none'}} href="https://twitter.com/messages/compose?recipient_id=1597669013773234176" data-screen-name="@zaldypratama83">

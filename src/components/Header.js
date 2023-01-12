@@ -37,7 +37,7 @@ function Header() {
                 </div>
             </motion.div>
             ) : null}
-           
+            
             <div className="hero">
                 <div className="text">
                     <motion.h1>
