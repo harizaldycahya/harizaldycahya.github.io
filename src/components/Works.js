@@ -52,14 +52,13 @@ function Works() {
             <motion.div whileHover="hover" class="project">
                 <motion.div initial={{x:'100vw'}} variants={textMotion} class="project_title">
                     <div class="text">
-                        <h3>Beanbag Bengkulu</h3>
+                        <h3>Harizaldy Blog</h3>
                         <hr />
-                        <p>Simple small business website with great user interface. 
-                            Created with react.js and framermotion, 
-                            this website have interactive animation and clean layout.
+                        <p>Simple blog website with great user interface. 
+                            Created with react.js and framermotion.
                             </p>
                         <div className="space5"></div>
-                        <a title="project" href="https://github.com/harizaldycahya">See This Project</a>
+                        <a title="project" href="https://harizaldyblog.vercel.app">See This Project</a>
                         {/* <div className="button">Open Project</div> */}
                     </div>
                 </motion.div>
@@ -67,12 +66,11 @@ function Works() {
             </motion.div>
             <div class="project_title_mobile">
                 <div class="text">
-                    <h3>Beanbag Bengkulu</h3>
-                    <p>Simple small business website with great user interface. 
-                        Created with react.js and framermotion, 
-                        this website have interactive animation and clean layout.
+                    <h3>Harizaldy Blog</h3>
+                    <p>Simple blog website with great user interface. 
+                            Created with react.js and framermotion.
                     </p>
-                    <a title="project" href="https://github.com/harizaldycahya">See This Project</a>
+                    <a title="project" href="https://harizaldyblog.vercel.app">See This Project</a>
                     {/* <div className="button">Open Project</div> */}
                 </div>
             </div>
